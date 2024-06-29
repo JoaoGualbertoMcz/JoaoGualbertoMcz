@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Sobre
 
-Olá, sou João Gualberto, desenvolvedor de software com mais de 35 anos de experiência na área da tecnologia da informação.
+Olá, sou João Gualberto, desenvolvedor de software com mais de 35 anos de experiência na área da tecnologia da informação, estou sempre buscando o aperfeiçoamento e aprendizado em novas tecnologias, linguagens de programação e metodologias de trabalho.
 
 🎓 Bacharel em Sistemas de Informação pelo Centro Universitário CESMAC, Maceió/AL.
 
