@@ -9,7 +9,7 @@ Olá, sou João Gualberto, desenvolvedor de software com mais de 35 anos de expe
 🖥️ Desenvolvedor Delphi fullstack.
 
 
-## Contatos:
+## 🌐 Redes Sociais:
 
 <div>
 <a href="https://www.linkedin.com/in/joaogualbertomcz/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
